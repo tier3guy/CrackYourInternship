@@ -1,4 +1,4 @@
-[Question Link](https://leetcode.com/problems/middle-of-the-linked-list/).
+[Question Link](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ```
 
