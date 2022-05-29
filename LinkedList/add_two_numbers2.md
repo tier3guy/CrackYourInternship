@@ -28,8 +28,6 @@ public:
             temp = temp->next;
         }
 
-
-
         int i = v1.size()-1, j = v2.size()-1;
 
         ListNode* node = nullptr;
